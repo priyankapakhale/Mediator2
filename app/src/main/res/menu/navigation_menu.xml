@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/nav_activity_home"
+        android:title="Home"
+        />
+
+    <item android:id="@+id/nav_activity_add_medicine"
+        android:title="Add Medicine"
+        />
+    <item android:id="@+id/nav_activity_pickup_requests"
+        android:title="Show Requests"
+        />
+    <item android:id="@+id/nav_activity_donate"
+        android:title="Donate"
+        />
+    <item android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@mipmap/ic_settings_white_24dp"
+        />
+    <item android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@mipmap/ic_power_settings_new_white_24dp"
+        />
+
+</menu>

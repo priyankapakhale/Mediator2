@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397448820969",
+    "firebase_url": "https://mediator2-9e73b.firebaseio.com",
+    "project_id": "mediator2-9e73b",
+    "storage_bucket": "mediator2-9e73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397448820969:android:c134b3119b0f75b7",
+        "android_client_info": {
+          "package_name": "com.example.priyanka.mediator2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397448820969-q517c7jfa7if0i4og0pr2pr4329pqa99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanka.mediator2",
+            "certificate_hash": "ed7ea13a615d1615421bdc01e88c0e2adca1c669"
+          }
+        },
+        {
+          "client_id": "397448820969-4d61bkjfd3ic8f3omgt23pamep3q8cun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTDseTnVjgLdzcZSejKjrG1xqH2KPRyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397448820969-4d61bkjfd3ic8f3omgt23pamep3q8cun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
